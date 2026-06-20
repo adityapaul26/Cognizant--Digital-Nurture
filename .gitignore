@@ -1,0 +1,45 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Neovim
+.nvim/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+packages/
+
+# Test Results
+TestResults/
+
+# Generated files
+Generated/
+
+# Environment files
+.env
+.env.*
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
