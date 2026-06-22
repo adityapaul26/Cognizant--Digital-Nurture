@@ -16,7 +16,7 @@ class Product
 
 class Program
 {
-    static Product LinearSearch(Product[] products, int targetId)
+    static Product? LinearSearch(Product[] products, int targetId)
     {
         foreach (Product product in products)
         {
